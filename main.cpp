@@ -1,11 +1,11 @@
-//
-// Created by ongel on 10/10/2017.
-//
+/*
+    Date: 10/10/2017
+    Author: Mehmet Oguz Ongel
+    
+    Description: Spell checking program that compares words in a file 
+                 to their correct spellings in a file called dictionary.txt
+*/
 
-/**File location: /export/home/cs301/cs301216/Project5
-        Account number: cs301216  */
-
-/* @file main.cpp */
 
 #include <iostream>
 #include <string>
